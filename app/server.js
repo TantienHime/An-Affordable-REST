@@ -3,6 +3,7 @@
 // initialize Express in project
 const express = require('express');
 const app = express();
+const path = require('path');
 const fs = require('fs');
 const housingData = fs.readFileSync('./data/webscrapeResults.JSON', 'utf8'); //Currently only getting a single Org Unit. Might need to check the looping on the axios.all. Minimal data is at least being served.
 const PORT = process.env.PORT || 8888;
