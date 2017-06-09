@@ -31,7 +31,7 @@ class App extends Component {
 	}
 
 	componentWillMount(){ //This works. It brings in the JSON file from the API and sets the state of the housing data, as well as the org units to be passed to the search component to populate the list of organizational units.
-		axios.get('/')
+		axios.get('/data')
 			.then(res => {
 				let orgUnits = []; 
 				for (let i=0; i<res.data.length; i++){

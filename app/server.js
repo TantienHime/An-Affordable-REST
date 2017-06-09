@@ -16,7 +16,7 @@ app.use(function(req, res, next) {
 });
 
 // Sets up the file to be served to the results page
-app.get('/', (req, res) => {
+app.get('/data', (req, res) => {
       fs.readFile('./data/webscrapeResults.JSON', 'utf8', (e, data)=>{
         res.send(data);
       });
