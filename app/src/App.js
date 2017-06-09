@@ -170,11 +170,11 @@ class App extends Component {
 								<nav>
 									<ul className="nav masthead-nav">
 										{/*<li className="active"><a href="/">Home</a></li>*/}
-          								<Link to='/static'>Home</Link>
+          								<Link to='/'>Home</Link>
 										{/*<li><a href="about.html">About</a></li>
 										<li><a href="contact.html">Contact</a></li>*/}
-          								<Link to='/static/about'>About</Link>
-										<Link to='/static/contact'>Contact</Link>
+          								<Link to='/about'>About</Link>
+										<Link to='/contact'>Contact</Link>
 									</ul>
 								</nav>
 							</div>
