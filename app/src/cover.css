@@ -52,8 +52,8 @@ body {
   vertical-align: top;
 }
 .cover-container {
-  margin-right: auto;
-  margin-left: auto;
+  /*margin-right: auto;
+  margin-left: auto;*/
 }
 
 /* Padding for spacing */
@@ -361,7 +361,7 @@ My Own CSS! - Shanta.
 
 .dev-list-item {
   /*height: 200px;*/
-  /*width: 600px;*/
+  width: 400px;
   /*margin-left: 100px;*/
   text-align: left;
   padding: 10px;
@@ -395,4 +395,8 @@ My Own CSS! - Shanta.
 }
 .checkbox {
     text-align: left;
+}
+
+.container {
+
 }
