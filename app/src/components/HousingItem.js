@@ -1,12 +1,12 @@
 import React from 'react';
-// import {Link} from 'react-router';
+import {Link} from 'react-router';
 
 class HousingItem extends React.Component {
 	render (){
-     console.log(this.props.orgItem.Speciality)
 		return(
 			<li className="list-group-item media dev-list-item">
-                    <a className="dev-link" href={"/details" + this.props.orgItem.DEV_ID} > {/*This link needs to be generated. The original expression was: <%= "movie/"+movies[i].id %> */}
+                    <Link className="dev-link" to={"/details/" + this.props.orgItem.DEV_ID} > {/*This link needs to be generated. The original expression was: <%= "movie/"+movies[i].id %>*/}
+                    
                          <h2 className="media-heading">
                          {this.props.orgItem.DEV_NAME} 
                          {/*This heading needs to be generated. The original expression was: <%= movies[i].title %> */}
@@ -24,7 +24,7 @@ class HousingItem extends React.Component {
                               return <li>{x}: {String(this.props.orgItem.Speciality[x])}</li>
                          })}
                          </ul>
-                    </a>
+                    </Link>
 			</li>
 		)
 	}

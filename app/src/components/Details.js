@@ -2,12 +2,46 @@ import React from 'react';
 // import {Link} from 'react-router';
 
 class Details extends React.Component{
+      //componentwillmount
+      //get ALL buildings
+      //find building where id === this.props.params.id
+      //setState
+      //replace all fields with this.state.building
+      constructor(props){
+                  super(props);
+                  this.state = { 
+                        allBuildings: this.props.resultsData,
+                        currentBuildingID: this.props.params.id,
+                        currentBuilding: {}
+            };
+                  //bindings
+                  // this.updateDone = this.updateDone.bind(this)
+      }      
+      // componentWillMount(){
+      //       console.log(this.state.allBuildings);
+      // }
+      // {
+      // }
+      assignData(){
+            let objectDetails = this.state.allBuildings.filter(findBuilding);
+            this.setState({
+                  currentBuilding: objectDetails
+            })
+                  console.log(objectDetails)
+
+      }
+
+      findBuilding(ID) {
+            return ID === this.props.resultsData.orgBuildings.DEV_ID;
+      }
+
      render(){
+      // console.log(this.props);
           return(
                <div className="container">
                     <div classID="bldg-details">
                          {/*This needs to be dynamic*/}
-                         <h1 className="text-center">Building Name</h1> 
+                         <h1 className="text-center">{this.state.currentBuilding.orgBuildings.DEV_NAME}</h1> 
                          <div className="row">
                               {/*What if this could be the map?*/}
                               {/*<div className="col-xs-5">

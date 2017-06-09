@@ -18,7 +18,7 @@ ReactDOM.render(
       <Route path="/" component={App}> 
         <IndexRoute component={Search} />
         <Route path="results" component={Results} /> 
-        <Route path="details" component={Details} />        
+        <Route path="details/:id" component={Details} />        
         <Route path="about" component={About} />
         <Route path="contact" component={Contact} />  
       </Route>
