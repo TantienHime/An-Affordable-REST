@@ -1,0 +1,4080 @@
+[
+  {
+    "orgUnit": "Weston Rexdale",
+    "orgManager": "Joan White",
+    "orgAddress": "2765 Islington Ave.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "47",
+        "DEV_NAME": "Albion Shendale",
+        "BLDG_ADDRESS": "275 Albion Rd.;1 Shendale Dr. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "37",
+        "DEV_NAME": "Dixington Cres.",
+        "BLDG_ADDRESS": "42-44, 50 Dixington Cres.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "29",
+        "DEV_NAME": "Duncan Woods Dr. ",
+        "BLDG_ADDRESS": "206-218 Duncan Woods Dr.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "134",
+        "DEV_NAME": "Eagle Manor",
+        "BLDG_ADDRESS": "1901 Weston Rd.",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "58 ",
+        "DEV_NAME": "Finch Ardwick",
+        "BLDG_ADDRESS": "1, 5, 9, 15 Ardwick Bvld.",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "305",
+        "DEV_NAME": "Finch Ave. West 2350 (Amansie Place)",
+        "BLDG_ADDRESS": "2350 Finch Avenue W. Units 1-7, 15-22",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "305",
+        "DEV_NAME": "Finch Ave. West 2350 (Amansie Place)",
+        "BLDG_ADDRESS": "2350 Finch Avenue W. Units 8-14, 201-204, 301-304,401-409, 501-509",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "111",
+        "DEV_NAME": "Humber Acres",
+        "BLDG_ADDRESS": "1 Scarletwood Ct.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "176",
+        "DEV_NAME": "Humberline Place",
+        "BLDG_ADDRESS": "10 Humberline Dr.",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "217",
+        "DEV_NAME": "Islington Satterly",
+        "BLDG_ADDRESS": "2-18 San Antonio Way, 1-45 San Pietroway",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "219",
+        "DEV_NAME": "Islington St.Andrews",
+        "BLDG_ADDRESS": "2063, 2067 Islington Ave.",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "972",
+        "DEV_NAME": "Kendleton Dr.(111)",
+        "BLDG_ADDRESS": "111 Kendleton Dr.",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "45",
+        "DEV_NAME": "Kipling Mount Olive",
+        "BLDG_ADDRESS": "1-11, 15-27 Mount Olive Dr.;53-55 Silverstone Dr.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "13",
+        "DEV_NAME": "Lightwood Sanagan",
+        "BLDG_ADDRESS": "1-3 Sanagan Rd.; 35, 39, 43,47, 51, 55, 63, 67, 71, 75, 79, 83 Lightwood Dr.",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "220",
+        "DEV_NAME": "Martin Grove Albion",
+        "BLDG_ADDRESS": "1674-1680 Albion Rd.",
+        "Unit_Type": {
+          "bachelor": 81,
+          "oneBr": 195,
+          "twoBr": 231,
+          "threeBr": 94,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "901",
+        "DEV_NAME": "Queens Plate Dr. (900)",
+        "BLDG_ADDRESS": "900-910 Queens Plate Dr.",
+        "Unit_Type": {
+          "bachelor": 60,
+          "oneBr": 120,
+          "twoBr": 144,
+          "threeBr": 182,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "114",
+        "DEV_NAME": "Robert J. Smith Apts.",
+        "BLDG_ADDRESS": "101, 121 Kendleton Dr.",
+        "Unit_Type": {
+          "bachelor": 8,
+          "oneBr": 61,
+          "twoBr": 144,
+          "threeBr": 159,
+          "fourBr": 7
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "180",
+        "DEV_NAME": "Rowntree Manor",
+        "BLDG_ADDRESS": "2765 Islington Ave.",
+        "Unit_Type": {
+          "bachelor": 55,
+          "oneBr": 186,
+          "twoBr": 155,
+          "threeBr": 169,
+          "fourBr": 87
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "205",
+        "DEV_NAME": "Scarlett Manor",
+        "BLDG_ADDRESS": "1025 Scarlett Rd.",
+        "Unit_Type": {
+          "bachelor": 47,
+          "oneBr": 62,
+          "twoBr": 196,
+          "threeBr": 58,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "206",
+        "DEV_NAME": "Scarlettwood",
+        "BLDG_ADDRESS": "2-12, 14-51, 27, 49,53-83 Scarlettwood Ct.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 59,
+          "twoBr": 58,
+          "threeBr": 39,
+          "fourBr": 40
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "30",
+        "DEV_NAME": "Tandridge Cres.1",
+        "BLDG_ADDRESS": "44-80 Tandridge Cres.(900-960, 1000-1046)",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 107,
+          "twoBr": 279,
+          "threeBr": 91,
+          "fourBr": 82
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "54",
+        "DEV_NAME": "Tandridge Cres. 2",
+        "BLDG_ADDRESS": "75 Tandridge Cres.",
+        "Unit_Type": {
+          "bachelor": 32,
+          "oneBr": 27,
+          "twoBr": 235,
+          "threeBr": 40,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "210",
+        "DEV_NAME": "Thistletown 1 ",
+        "BLDG_ADDRESS": "15-268 Jamestown Cres.; 50,60, 70-136 John Garland Blvd.",
+        "Unit_Type": {
+          "bachelor": 7,
+          "oneBr": 115,
+          "twoBr": 188,
+          "threeBr": 18,
+          "fourBr": 26
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "26",
+        "DEV_NAME": "Thistletown 2 ",
+        "BLDG_ADDRESS": "6455 Finch Ave. W.; 8 Kendleton Dr.; 1801-1827 Martin Grove Rd.; 4-6, 10-14,18-20, 24, 28-36 Orpington Cres.; 1, 7, 15, 19, 23, 27,31, 35 Pittsboro Dr.",
+        "Unit_Type": {
+          "bachelor": 94,
+          "oneBr": 93,
+          "twoBr": 55,
+          "threeBr": 97,
+          "fourBr": 67
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "18",
+        "DEV_NAME": "Torbolton Dr.",
+        "BLDG_ADDRESS": "50 Torbolton Dr.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 180,
+          "twoBr": 116,
+          "threeBr": 58,
+          "fourBr": 86
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "101",
+        "DEV_NAME": "Westacres",
+        "BLDG_ADDRESS": "1-8 Arbordell Rd.",
+        "Unit_Type": {
+          "bachelor": 54,
+          "oneBr": 128,
+          "twoBr": 283,
+          "threeBr": 88,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "106",
+        "DEV_NAME": "Westacres Extension ",
+        "BLDG_ADDRESS": "9-15 Arbordell Rd.",
+        "Unit_Type": {
+          "bachelor": 21,
+          "oneBr": 34,
+          "twoBr": 135,
+          "threeBr": 53,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "98",
+        "DEV_NAME": "Weston Bellevue",
+        "BLDG_ADDRESS": "5 Bellevue Cres.",
+        "Unit_Type": {
+          "bachelor": 43,
+          "oneBr": 199,
+          "twoBr": 38,
+          "threeBr": 136,
+          "fourBr": 17
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "177",
+        "DEV_NAME": "Weston Towers",
+        "BLDG_ADDRESS": "3101 Weston Rd.",
+        "Unit_Type": {
+          "bachelor": 13,
+          "oneBr": 179,
+          "twoBr": 26,
+          "threeBr": 19,
+          "fourBr": 71
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "York Black Creek",
+    "orgManager": "George Barei",
+    "orgAddress": "5 Needle Firway",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "40",
+        "DEV_NAME": "DeMarco Bvld.",
+        "BLDG_ADDRESS": "2 DeMarco Bvld.; 1620-1622 Lawrence Ave. W. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "116",
+        "DEV_NAME": "Downsview Acres",
+        "BLDG_ADDRESS": "2195 Jane St.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "25",
+        "DEV_NAME": "Edgeley Village Driftwood",
+        "BLDG_ADDRESS": "415, 367-383, 388-404 Driftwood Ave.; 1-25,50 Driftwood Ct.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "325",
+        "DEV_NAME": "Edgeley Village Shoreham ",
+        "BLDG_ADDRESS": "1-25 Shoreham Ct. (odd)",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "52",
+        "DEV_NAME": "Finch Tobermory",
+        "BLDG_ADDRESS": "15 Tobermory Dr.",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "4",
+        "DEV_NAME": "Finch Topcliffe ",
+        "BLDG_ADDRESS": "20 Yellowstone St.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "97",
+        "DEV_NAME": "Firgrove Cres.",
+        "BLDG_ADDRESS": "7, 11 Blue Grassway; 4,17 Cane Grassway; 1, 2, 8 Dune Grassway; 3, 36 Marsh Grassway; 5, 10,40 Turf Grassway",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "84",
+        "DEV_NAME": "Jane Falstaff",
+        "BLDG_ADDRESS": "10, 20, 30, 40 Falstaff Ave.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "42",
+        "DEV_NAME": "Jane Firgrove",
+        "BLDG_ADDRESS": "2-14, 5, 22-36 Needle Firway",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "61",
+        "DEV_NAME": "Jane John Best ",
+        "BLDG_ADDRESS": "1570 Jane St.",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "3",
+        "DEV_NAME": "Jane Milo",
+        "BLDG_ADDRESS": "4400 Jane St.;33-45 Gosford Blvd.",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "17",
+        "DEV_NAME": "Jane St. (2265)",
+        "BLDG_ADDRESS": "2265 Jane St.",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "11",
+        "DEV_NAME": "Jane St. (2585)",
+        "BLDG_ADDRESS": "2585 Jane St.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "24",
+        "DEV_NAME": "Jane Yewtree",
+        "BLDG_ADDRESS": "2999 Jane St.",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "199",
+        "DEV_NAME": "Roding Park Place ",
+        "BLDG_ADDRESS": "1286 Wilson Ave.",
+        "Unit_Type": {
+          "bachelor": 81,
+          "oneBr": 195,
+          "twoBr": 231,
+          "threeBr": 94,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "51",
+        "DEV_NAME": "Sentinel Rd. ",
+        "BLDG_ADDRESS": "182, 192, 202 Sentinel Rd.",
+        "Unit_Type": {
+          "bachelor": 60,
+          "oneBr": 120,
+          "twoBr": 144,
+          "threeBr": 182,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "809",
+        "DEV_NAME": "Sheppard Ave. W.",
+        "BLDG_ADDRESS": "1900 Sheppard Avenue W.",
+        "Unit_Type": {
+          "bachelor": 8,
+          "oneBr": 61,
+          "twoBr": 144,
+          "threeBr": 159,
+          "fourBr": 7
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "41",
+        "DEV_NAME": "Sheppard Magellan",
+        "BLDG_ADDRESS": "1901 Sheppard Ave. W.",
+        "Unit_Type": {
+          "bachelor": 55,
+          "oneBr": 186,
+          "twoBr": 155,
+          "threeBr": 169,
+          "fourBr": 87
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "12",
+        "DEV_NAME": "Sheppard Yatescastle",
+        "BLDG_ADDRESS": "1862-1886, 1890-1898Sheppard Ave. E; 50 Brady Cres.; 56 Charrington Ct.;23 Thwaite Ave; 51 Whitebread Cres.;7, 11 Yatescastle Dr.",
+        "Unit_Type": {
+          "bachelor": 47,
+          "oneBr": 62,
+          "twoBr": 196,
+          "threeBr": 58,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "224",
+        "DEV_NAME": "Trethewey Tedder ",
+        "BLDG_ADDRESS": "710, 720 Trethewey Dr.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 59,
+          "twoBr": 58,
+          "threeBr": 39,
+          "fourBr": 40
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "175",
+        "DEV_NAME": "Trimbee Ct.",
+        "BLDG_ADDRESS": "30 Denarda St.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 107,
+          "twoBr": 279,
+          "threeBr": 91,
+          "fourBr": 82
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "187",
+        "DEV_NAME": "York Sq.",
+        "BLDG_ADDRESS": "2468 Eglinton Ave. W.",
+        "Unit_Type": {
+          "bachelor": 32,
+          "oneBr": 27,
+          "twoBr": 235,
+          "threeBr": 40,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "44",
+        "DEV_NAME": "Yorkwoods Village",
+        "BLDG_ADDRESS": "10-44 Driftwood Dr.; 271-311,202-310 Grandravine Dr.",
+        "Unit_Type": {
+          "bachelor": 7,
+          "oneBr": 115,
+          "twoBr": 188,
+          "threeBr": 18,
+          "fourBr": 26
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Yorkdale Lawrence",
+    "orgManager": "Kimberley Garrett",
+    "orgAddress": "3050 Bathurst St.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "207",
+        "DEV_NAME": "Champlain Place",
+        "BLDG_ADDRESS": "495 Wilson Ave. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "8",
+        "DEV_NAME": "Dufferin Wilson Heights ",
+        "BLDG_ADDRESS": "757 Wilson Heights Blvd.;4247, 4257, 4281-4287,4293, 4297-4303, 4307-9 Dufferin St.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "185",
+        "DEV_NAME": "Faywood Place",
+        "BLDG_ADDRESS": "2 Faywood Blvd.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "850",
+        "DEV_NAME": "Lawrence Ave. W. (650) ",
+        "BLDG_ADDRESS": "650 Lawrence Ave. W.",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "200",
+        "DEV_NAME": "Lawrence Heights",
+        "BLDG_ADDRESS": "1-11, 15-87 Amaranth Ct.; 1-109 Bagot Ct.; 51, 50-58 Blossomfield Dr; 1-87 Bredonhill Ct.; 1-27-53, 2-78 Cather Cres.; 1-91 Dorney Ct.; 2-28, 46-96 Edengarth Ct.; 1-125 Flemington Rd.; 1-5 Leila La.; 1-3 Old Meadow La.; 2-84 Pengarth Ct.",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "216",
+        "DEV_NAME": "Neptune Dr.",
+        "BLDG_ADDRESS": "135, 145, 155 Neptune Dr.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "102",
+        "DEV_NAME": "Northacres Apts.",
+        "BLDG_ADDRESS": "2-20 Flemington Rd.",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "127",
+        "DEV_NAME": "Northwood Apts.",
+        "BLDG_ADDRESS": "3680 Keele St.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "198",
+        "DEV_NAME": "Overbrook Place",
+        "BLDG_ADDRESS": "750 Wilson Heights Bvld.",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "223",
+        "DEV_NAME": "Roselawn Marlee",
+        "BLDG_ADDRESS": "855 Roselawn Ave",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Willowdale Don Valley",
+    "orgManager": "Kelly Tessier-Wheeler",
+    "orgAddress": "2739 Victoria Park Ave.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "48",
+        "DEV_NAME": "Allenbury Gardens ",
+        "BLDG_ADDRESS": "3, 5, 11, 17, 21 Allenbury Gdns.; 3, 5 Kingslake Rd.",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "120",
+        "DEV_NAME": "Centennial Apts.",
+        "BLDG_ADDRESS": "5-11 Wakunda Pl.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "35",
+        "DEV_NAME": "Finch Brahms",
+        "BLDG_ADDRESS": "2-14, 5-21 Brahms Ave.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "36",
+        "DEV_NAME": "Leslie Finch",
+        "BLDG_ADDRESS": "1-15, 2-10 Field Sparroway",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "20",
+        "DEV_NAME": "Leslie Nymark ",
+        "BLDG_ADDRESS": "1-35, 45-69. 6-66 AdraVillaway; 1-25, 2-24, 30-44,37-53 Grado Villaway; 1-29,2-28 Tomar Villaway",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "1",
+        "DEV_NAME": "O'Connor Dr.",
+        "BLDG_ADDRESS": "5-7, 6, 15-17, 20, 25-27, 30,35-37, 40, 45-47, 55-57, 65-67, 75-77, 85-87, 90, 100 Parma Ct.; 15-45, 20-22, 30-32, 40-42 Wakunda Pl.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "5",
+        "DEV_NAME": "Parkwoods Rayoak",
+        "BLDG_ADDRESS": "51 Parkwoods Village Dr.; 14 Rayoak Rd.​​",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "39",
+        "DEV_NAME": "Roywood Dr. ",
+        "BLDG_ADDRESS": "235-239, 251-257 Roywood Dr.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "28",
+        "DEV_NAME": "Shaughnessy Bvld.",
+        "BLDG_ADDRESS": "165-169 Shaughnessy Bvld.",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "56",
+        "DEV_NAME": "Sheppard Victoria Park ",
+        "BLDG_ADDRESS": "2739, 2743 Victoria Park Ave.",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "218",
+        "DEV_NAME": "Victoria Park Chester Le ",
+        "BLDG_ADDRESS": "132-152, 160-172, 180-192,260-272, 275 Chester Le Blvd.; 51 Morecambe Gate",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "31",
+        "DEV_NAME": "Willowdale Ave.",
+        "BLDG_ADDRESS": "​415 Willowdale Ave.",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "2",
+        "DEV_NAME": "Woodsworth Northey",
+        "BLDG_ADDRESS": "96-98 Northey Dr.; 208-258,264-274, 277-279, 307-309 Woodsworth Dr.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Scarborough",
+    "orgManager": "Marva Jeffers",
+    "orgAddress": "2180 Ellesmere Road",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "96",
+        "DEV_NAME": "Birchmount Eglinton ",
+        "BLDG_ADDRESS": "1021 Birchmount Rd. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "16",
+        "DEV_NAME": "Canlish Rd.",
+        "BLDG_ADDRESS": "10, 15 Canlish Rd.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "72",
+        "DEV_NAME": "Ellesmere Markham",
+        "BLDG_ADDRESS": "2180, 2190 Ellesmere Rd.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "178",
+        "DEV_NAME": "Empringham Mews",
+        "BLDG_ADDRESS": "50-66, 90, 92-126 Empringham Dr.",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "76",
+        "DEV_NAME": "Finch Birchmount",
+        "BLDG_ADDRESS": "2821 Birchmount Rd.; 85-323 Glendower Circuit",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "64",
+        "DEV_NAME": "Hallbank Pitfield",
+        "BLDG_ADDRESS": "46-60, 59-73 Hallbank Terrace; 89-91 Keyworth Trail, 311-325 Pitfield Rd.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "10",
+        "DEV_NAME": "Kennedy Dundalk",
+        "BLDG_ADDRESS": "7 Glamorgan Ave.",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "9",
+        "DEV_NAME": "Kennedy Glamorgan",
+        "BLDG_ADDRESS": "6 Glamorgan Ave.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "73",
+        "DEV_NAME": "Kennedy Rd.",
+        "BLDG_ADDRESS": "675 Kennedy Rd.;20, 30 Eppleworth Rd.",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "211",
+        "DEV_NAME": "Kingston Galloway",
+        "BLDG_ADDRESS": "4301, 4311, 4315, 4321,4325, 4331 Kingston Rd.",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "23",
+        "DEV_NAME": "Lawrence Galloway",
+        "BLDG_ADDRESS": "4100, 4110 Lawrence Ave. E.",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "80",
+        "DEV_NAME": "Lawrence Orton",
+        "BLDG_ADDRESS": "3939-3947 Lawrence Ave. E.",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "81",
+        "DEV_NAME": "Lawrence Susan",
+        "BLDG_ADDRESS": "3847 Lawrence Ave. E.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "215",
+        "DEV_NAME": "Lawrence Valia",
+        "BLDG_ADDRESS": "30 Valia Rd.",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "55",
+        "DEV_NAME": "Malvern 2",
+        "BLDG_ADDRESS": "3, 18, 23 Baldoon Dr.; 8, 23, 31, 40, 56.64, 74, 86, 96 Blackwater Cres.; 28,57 Bradstone Sq. and more addresses",
+        "Unit_Type": {
+          "bachelor": 81,
+          "oneBr": 195,
+          "twoBr": 231,
+          "threeBr": 94,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "77",
+        "DEV_NAME": "Malvern 3",
+        "BLDG_ADDRESS": "42, 58, 56 Bradworthy Ct.; 22,50, 62 Bushwood Ct.; 26, 58, 68 Duffort Ct.; 8, 34, 52, 68, 84 Dunthorne Ct.; 10, 20, 38 Henbury Pl.; 12, 56 Scotney Gr.",
+        "Unit_Type": {
+          "bachelor": 60,
+          "oneBr": 120,
+          "twoBr": 144,
+          "threeBr": 182,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "7",
+        "DEV_NAME": "Midland Ave. (1201) ",
+        "BLDG_ADDRESS": "1201 Midland Ave.",
+        "Unit_Type": {
+          "bachelor": 8,
+          "oneBr": 61,
+          "twoBr": 144,
+          "threeBr": 159,
+          "fourBr": 7
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "6",
+        "DEV_NAME": "Mornelle Ellesmere",
+        "BLDG_ADDRESS": "110 Mornelle Ct.",
+        "Unit_Type": {
+          "bachelor": 55,
+          "oneBr": 186,
+          "twoBr": 155,
+          "threeBr": 169,
+          "fourBr": 87
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "212",
+        "DEV_NAME": "Mornelle Morningside",
+        "BLDG_ADDRESS": "90 Mornelle Ct.",
+        "Unit_Type": {
+          "bachelor": 47,
+          "oneBr": 62,
+          "twoBr": 196,
+          "threeBr": 58,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "136",
+        "DEV_NAME": "Morningside Apts.",
+        "BLDG_ADDRESS": "4205 Lawrence Ave. E.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 59,
+          "twoBr": 58,
+          "threeBr": 39,
+          "fourBr": 40
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "75",
+        "DEV_NAME": "Morningside Coronation ",
+        "BLDG_ADDRESS": "101-159, 160-230 Danzig St.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 107,
+          "twoBr": 279,
+          "threeBr": 91,
+          "fourBr": 82
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "213",
+        "DEV_NAME": "Morningside Ling",
+        "BLDG_ADDRESS": "225 Morningside Ave.",
+        "Unit_Type": {
+          "bachelor": 32,
+          "oneBr": 27,
+          "twoBr": 235,
+          "threeBr": 40,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "79",
+        "DEV_NAME": "Sheppard Birchmount 1",
+        "BLDG_ADDRESS": "200-374 Bay Mills Bvld.",
+        "Unit_Type": {
+          "bachelor": 7,
+          "oneBr": 115,
+          "twoBr": 188,
+          "threeBr": 18,
+          "fourBr": 26
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "95",
+        "DEV_NAME": "Sheppard Birchmount 2",
+        "BLDG_ADDRESS": "365 Bay Mills Bvld.",
+        "Unit_Type": {
+          "bachelor": 94,
+          "oneBr": 93,
+          "twoBr": 55,
+          "threeBr": 97,
+          "fourBr": 67
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "69St.",
+        "DEV_NAME": "Clair Birchmount 1",
+        "BLDG_ADDRESS": "3485 St.Clair Ave. E.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 180,
+          "twoBr": 116,
+          "threeBr": 58,
+          "fourBr": 86
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "78St.",
+        "DEV_NAME": "Clair Birchmount 2",
+        "BLDG_ADDRESS": "3479 St. Clair Ave. E.",
+        "Unit_Type": {
+          "bachelor": 54,
+          "oneBr": 128,
+          "twoBr": 283,
+          "threeBr": 88,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "129",
+        "DEV_NAME": "Village Apts.",
+        "BLDG_ADDRESS": "50 Tuxedo Rd.",
+        "Unit_Type": {
+          "bachelor": 21,
+          "oneBr": 34,
+          "twoBr": 135,
+          "threeBr": 53,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "135",
+        "DEV_NAME": "West Hill Apts.",
+        "BLDG_ADDRESS": "4175 Lawrence Ave. E.",
+        "Unit_Type": {
+          "bachelor": 43,
+          "oneBr": 199,
+          "twoBr": 38,
+          "threeBr": 136,
+          "fourBr": 17
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Scarborough Southwest",
+    "orgManager": "Vacant (contact Director Abdul Warsame)​",
+    "orgAddress": "40 Gordonridge Place",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "126",
+        "DEV_NAME": "Adanac Apts.",
+        "BLDG_ADDRESS": "140 Adanac Dr. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "53",
+        "DEV_NAME": "Danforth Midland (Gordonridge)",
+        "BLDG_ADDRESS": "10, 20, 30, 40 Gordonridge Pl.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "60",
+        "DEV_NAME": "Eglinton Markham",
+        "BLDG_ADDRESS": "3171, 3181 Eglinton Ave. E.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "82",
+        "DEV_NAME": "Gilder Dr.",
+        "BLDG_ADDRESS": "31, 47-51, 81-85 Gilder Dr.",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "49",
+        "DEV_NAME": "Greenbrae Circuit 1",
+        "BLDG_ADDRESS": "20-50, 60-92 Greenbrae Circuit",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "100",
+        "DEV_NAME": "Greenbrae Circuit 2",
+        "BLDG_ADDRESS": "55, 65 Greenbrae Circuit",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "21",
+        "DEV_NAME": "Kingston Rd. (3190)",
+        "BLDG_ADDRESS": "3190 Kingston Rd.",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "124",
+        "DEV_NAME": "McClain Park Apts. ",
+        "BLDG_ADDRESS": "10 Glen Everest Rd.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "70",
+        "DEV_NAME": "McCowan Rd. (400)",
+        "BLDG_ADDRESS": "400 McCowan Rd.",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "43",
+        "DEV_NAME": "McCowan Rd. (410)",
+        "BLDG_ADDRESS": "410 McCowan Rd. (Blocks 1-60)",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "99",
+        "DEV_NAME": "Teesdale Pharmacy",
+        "BLDG_ADDRESS": "30, 40 Teesdale Pl.",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "208 ",
+        "DEV_NAME": "Warden Woods",
+        "BLDG_ADDRESS": "1-103, 2-104 Cataraqui Cres.;1, 49-95, 50-64 Firvalley Ct.;179-223, 186-274PattersonAve.;680 Warden Ave.",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "113",
+        "DEV_NAME": "Woodland Acres North ",
+        "BLDG_ADDRESS": "682 Warden Ave.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "119",
+        "DEV_NAME": "Woodland Acres South",
+        "BLDG_ADDRESS": "40 Firvalley Ct.",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Grange Bathurst St. Lawrence",
+    "orgManager": "Lorna Davis (acting)",
+    "orgAddress": "15 Scadding Ave.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "404",
+        "DEV_NAME": "Bathurst Adelaide ",
+        "BLDG_ADDRESS": "575 Adelaide St. W.",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "405",
+        "DEV_NAME": "Bathurst Eglinton",
+        "BLDG_ADDRESS": "790, 800, 840 Eglinton Ave. W.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "490",
+        "DEV_NAME": "Bathurst St. (1400)",
+        "BLDG_ADDRESS": "1400 Bathurst St.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "401",
+        "DEV_NAME": "Bishop Tutu Blvd. (25)",
+        "BLDG_ADDRESS": "17-55 Bishop Tutu Blvd.",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "174",
+        "DEV_NAME": "Blake Towers ",
+        "BLDG_ADDRESS": "154 Vaughan Rd.",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "410",
+        "DEV_NAME": "Brunswick Howland Albany",
+        "BLDG_ADDRESS": "11-13 Albany Street, 316-318 Brunswick Ave. \n             15 Howland Ave., 16-18 Howland Avenue",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "491",
+        "DEV_NAME": "Carling Irene",
+        "BLDG_ADDRESS": "5-7 Carling Avenue 21-25 Irene Avenue",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "800",
+        "DEV_NAME": "Chestnut Elizabeth",
+        "BLDG_ADDRESS": "111 Chestnut Street",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "742",
+        "DEV_NAME": "Church St. (1)",
+        "BLDG_ADDRESS": "1 Church Street",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "706",
+        "DEV_NAME": "Crombie Park",
+        "BLDG_ADDRESS": "1-21, 25, 31-45, 49 Henry Lane Terrace",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "476",
+        "DEV_NAME": "Davenport Rd. (1087)",
+        "BLDG_ADDRESS": "1087 Davenport Road",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "420",
+        "DEV_NAME": "Dundas Beverley",
+        "BLDG_ADDRESS": "133-147 Beverley Street; 37-41 D’Arcy Street; 370 Dundas Street West",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "481",
+        "DEV_NAME": "Elm Ridge Dr. (145)",
+        "BLDG_ADDRESS": "145 Elm Ridge Dr.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "425",
+        "DEV_NAME": "Elm Ridge Dr. (165)",
+        "BLDG_ADDRESS": "165 Elm Ridge Dr.",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "723",
+        "DEV_NAME": "Elm St. (25)",
+        "BLDG_ADDRESS": "25 Elm St.",
+        "Unit_Type": {
+          "bachelor": 81,
+          "oneBr": 195,
+          "twoBr": 231,
+          "threeBr": 94,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "430",
+        "DEV_NAME": "Frankel Lambert 1",
+        "BLDG_ADDRESS": "146-154 Lambertlodge Ave.; 367-379, 384-394, 475-491 Melita Ave.; 475-491, 101-111 Wychcrest Ave.",
+        "Unit_Type": {
+          "bachelor": 60,
+          "oneBr": 120,
+          "twoBr": 144,
+          "threeBr": 182,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "434",
+        "DEV_NAME": "Frankel Lambert 2",
+        "BLDG_ADDRESS": "460-464B, 470 Melita Ave.; (Melita Cres. 470) 1149-1153B Shaw St.; 129-137B Wychrest Ave.",
+        "Unit_Type": {
+          "bachelor": 8,
+          "oneBr": 61,
+          "twoBr": 144,
+          "threeBr": 159,
+          "fourBr": 7
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "445",
+        "DEV_NAME": "Huron Madison",
+        "BLDG_ADDRESS": "480-482, 490-494 Huron St.; 13, 21-27 Madison Ave.",
+        "Unit_Type": {
+          "bachelor": 55,
+          "oneBr": 186,
+          "twoBr": 155,
+          "threeBr": 169,
+          "fourBr": 87
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "450",
+        "DEV_NAME": "Hydro Block",
+        "BLDG_ADDRESS": "40-42 Baldwin St.; 181-203 Beverley St.; 5-15 Cecil St.; 6-28 Henry St.",
+        "Unit_Type": {
+          "bachelor": 47,
+          "oneBr": 62,
+          "twoBr": 196,
+          "threeBr": 58,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "488",
+        "DEV_NAME": "John St. (190) ",
+        "BLDG_ADDRESS": "190 John St.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 59,
+          "twoBr": 58,
+          "threeBr": 39,
+          "fourBr": 40
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "460",
+        "DEV_NAME": "Lambert Ct.",
+        "BLDG_ADDRESS": "384-390 Christie St.; 2, 10-50 Lambertlodge Ave.; 255-269 Melita Ave.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 107,
+          "twoBr": 279,
+          "threeBr": 91,
+          "fourBr": 82
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "495",
+        "DEV_NAME": "Larch St. (15)",
+        "BLDG_ADDRESS": "6-16, 15, 32 Larch St.; 76 Grange Ave.",
+        "Unit_Type": {
+          "bachelor": 32,
+          "oneBr": 27,
+          "twoBr": 235,
+          "threeBr": 40,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "486",
+        "DEV_NAME": "McCaul St. (22)",
+        "BLDG_ADDRESS": "22 McCaul St.; 13-19 St. Patrick's La.",
+        "Unit_Type": {
+          "bachelor": 7,
+          "oneBr": 115,
+          "twoBr": 188,
+          "threeBr": 18,
+          "fourBr": 26
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "480",
+        "DEV_NAME": "Mitchell Ave. (63)",
+        "BLDG_ADDRESS": "63 Mitchell Ave.",
+        "Unit_Type": {
+          "bachelor": 94,
+          "oneBr": 93,
+          "twoBr": 55,
+          "threeBr": 97,
+          "fourBr": 67
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "87",
+        "DEV_NAME": "Pendrith Park",
+        "BLDG_ADDRESS": "177 Pendrith St.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 180,
+          "twoBr": 116,
+          "threeBr": 58,
+          "fourBr": 86
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "466",
+        "DEV_NAME": "Queen Vanauley",
+        "BLDG_ADDRESS": "20 Vanauley St.; 21-23 Augusta Ave.; 20 Vanauley St.",
+        "Unit_Type": {
+          "bachelor": 54,
+          "oneBr": 128,
+          "twoBr": 283,
+          "threeBr": 88,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "482",
+        "DEV_NAME": "Queens Quay W. (679)",
+        "BLDG_ADDRESS": "679 Queens Quay W.",
+        "Unit_Type": {
+          "bachelor": 21,
+          "oneBr": 34,
+          "twoBr": 135,
+          "threeBr": 53,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "721",
+        "DEV_NAME": "Scadding Ave. (15)",
+        "BLDG_ADDRESS": "4-52 Princess St.; 15, 21-35 Scadding Ave.",
+        "Unit_Type": {
+          "bachelor": 43,
+          "oneBr": 199,
+          "twoBr": 38,
+          "threeBr": 136,
+          "fourBr": 17
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "171",
+        "DEV_NAME": "Senator D. Croll Apts.",
+        "BLDG_ADDRESS": "341 Bloor St. W.",
+        "Unit_Type": {
+          "bachelor": 13,
+          "oneBr": 179,
+          "twoBr": 26,
+          "threeBr": 19,
+          "fourBr": 71
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "484",
+        "DEV_NAME": "Simcoe St. Patrick",
+        "BLDG_ADDRESS": "127 St. Patrick St.; 248 Simcoe St.",
+        "Unit_Type": {
+          "bachelor": 70,
+          "oneBr": 51,
+          "twoBr": 214,
+          "threeBr": 200,
+          "fourBr": 15
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "736",
+        "DEV_NAME": "St. Joseph St. (21)",
+        "BLDG_ADDRESS": "21 St. Joseph St.",
+        "Unit_Type": {
+          "bachelor": 34,
+          "oneBr": 25,
+          "twoBr": 205,
+          "threeBr": 184,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "709",
+        "DEV_NAME": "St. Lawrence Townhouses",
+        "BLDG_ADDRESS": "10, 12, 13, 15 Aitken Pl.; 11, 13, 14, 16 Douville St.; 9, 11 Portneuf Ave.",
+        "Unit_Type": {
+          "bachelor": 21,
+          "oneBr": 65,
+          "twoBr": 237,
+          "threeBr": 39,
+          "fourBr": 4
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "477",
+        "DEV_NAME": "Sullivan St. (11) ",
+        "BLDG_ADDRESS": "11, 15-21 Sullivan St.",
+        "Unit_Type": {
+          "bachelor": 37,
+          "oneBr": 174,
+          "twoBr": 281,
+          "threeBr": 134,
+          "fourBr": 77
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "738",
+        "DEV_NAME": "The Esplanade (140)",
+        "BLDG_ADDRESS": "140 The Esplanade",
+        "Unit_Type": {
+          "bachelor": 61,
+          "oneBr": 14,
+          "twoBr": 196,
+          "threeBr": 86,
+          "fourBr": 21
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "714",
+        "DEV_NAME": "The Esplanade (176)",
+        "BLDG_ADDRESS": "176 The Esplanade; 85-129 Frederick St.; 171 Front St. E.",
+        "Unit_Type": {
+          "bachelor": 53,
+          "oneBr": 185,
+          "twoBr": 112,
+          "threeBr": 30,
+          "fourBr": 46
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "727",
+        "DEV_NAME": "The Esplanade (55)",
+        "BLDG_ADDRESS": "55 The Esplanade",
+        "Unit_Type": {
+          "bachelor": 38,
+          "oneBr": 134,
+          "twoBr": 247,
+          "threeBr": 3,
+          "fourBr": 10
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "479",
+        "DEV_NAME": "Wales Casimir 61",
+        "BLDG_ADDRESS": "Wales Ave.; 61-75 Wales Ave.; 15-21 Casimir St.",
+        "Unit_Type": {
+          "bachelor": 80,
+          "oneBr": 181,
+          "twoBr": 233,
+          "threeBr": 21,
+          "fourBr": 92
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Central Sherbourne",
+    "orgManager": "Bob Macdonald",
+    "orgAddress": "155 Sherbourne St.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "92",
+        "DEV_NAME": "Bessie Luffman",
+        "BLDG_ADDRESS": "320 Seaton St. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "66",
+        "DEV_NAME": "Bleecker St. 1",
+        "BLDG_ADDRESS": "275, 325, 375 Bleecker St.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "214",
+        "DEV_NAME": "Church Granby",
+        "BLDG_ADDRESS": "389 Church St.",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "702",
+        "DEV_NAME": "Dan Harrison Complex ",
+        "BLDG_ADDRESS": "241-247, 251, 257-259,263-285 Sherbourne St.",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "65",
+        "DEV_NAME": "Davenport Rd. (250)",
+        "BLDG_ADDRESS": "250 Davenport Rd. (120-130 Pears Ave.)",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "384",
+        "DEV_NAME": "Dundas St. E. (257)",
+        "BLDG_ADDRESS": "257 Dundas St. E.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "191",
+        "DEV_NAME": "George St. (291) ",
+        "BLDG_ADDRESS": "291 George St.",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "209",
+        "DEV_NAME": "Jarvis Carlton Apts.",
+        "BLDG_ADDRESS": "330 Jarvis St.",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "375",
+        "DEV_NAME": "Jarvis St. (261)",
+        "BLDG_ADDRESS": "261 Jarvis St.",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "88",
+        "DEV_NAME": "Moss Park ",
+        "BLDG_ADDRESS": "275, 285, 295 Shuter St.",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "718",
+        "DEV_NAME": "Mutual St. (145)",
+        "BLDG_ADDRESS": "145 Mutual St.",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "724",
+        "DEV_NAME": "Mutual St. (25) ",
+        "BLDG_ADDRESS": "25 Mutual St.",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "726",
+        "DEV_NAME": "Ontario St. (295-299)",
+        "BLDG_ADDRESS": "295-299 Ontario St.",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "313",
+        "DEV_NAME": "Pembroke Mews ",
+        "BLDG_ADDRESS": "29-35 Pembroke St.;200 Sherbourne St.",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "356",
+        "DEV_NAME": "Pembroke St.(21-25)",
+        "BLDG_ADDRESS": "21-25 Pembroke St.",
+        "Unit_Type": {
+          "bachelor": 81,
+          "oneBr": 195,
+          "twoBr": 231,
+          "threeBr": 94,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "383",
+        "DEV_NAME": "Sackville St. (123)",
+        "BLDG_ADDRESS": "123 Sackville St.",
+        "Unit_Type": {
+          "bachelor": 60,
+          "oneBr": 120,
+          "twoBr": 144,
+          "threeBr": 182,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "94 ",
+        "DEV_NAME": "Sherbourne Shuter ",
+        "BLDG_ADDRESS": "155 Sherbourne St.",
+        "Unit_Type": {
+          "bachelor": 8,
+          "oneBr": 61,
+          "twoBr": 144,
+          "threeBr": 159,
+          "fourBr": 7
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "355",
+        "DEV_NAME": "Sherbourne St. (188)",
+        "BLDG_ADDRESS": "188 Sherbourne St.",
+        "Unit_Type": {
+          "bachelor": 55,
+          "oneBr": 186,
+          "twoBr": 155,
+          "threeBr": 169,
+          "fourBr": 87
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "316",
+        "DEV_NAME": "South St. Jamestown 1",
+        "BLDG_ADDRESS": "11.5, 26, 30, 33, 39A & B Aberdeen Ave.; 220, 222, 230,232 Carlton St.; 502, 504A & B,506, 508, 536, 536.5, 544 Parliament St.; 9, 13-19, 37-41 Winchester St.",
+        "Unit_Type": {
+          "bachelor": 47,
+          "oneBr": 62,
+          "twoBr": 196,
+          "threeBr": 58,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "336",
+        "DEV_NAME": "South St. Jamestown 2",
+        "BLDG_ADDRESS": "26-38 Prospect Ave.; 37-47,56 Rose Ave.; 245, 255-7, 265-73, 275A & B, 277-83 Wellesley St. E.",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 59,
+          "twoBr": 58,
+          "threeBr": 39,
+          "fourBr": 40
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "380",
+        "DEV_NAME": "Trefann Ct.",
+        "BLDG_ADDRESS": "440-522 Queen St. E.; 101-117, 125-133 Sackville St.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 107,
+          "twoBr": 279,
+          "threeBr": 91,
+          "fourBr": 82
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "373",
+        "DEV_NAME": "Trefann St. (40)",
+        "BLDG_ADDRESS": "40 Trefann St.",
+        "Unit_Type": {
+          "bachelor": 32,
+          "oneBr": 27,
+          "twoBr": 235,
+          "threeBr": 40,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "193",
+        "DEV_NAME": "Wellesley Jarvis Place",
+        "BLDG_ADDRESS": "460 Jarvis St.",
+        "Unit_Type": {
+          "bachelor": 7,
+          "oneBr": 115,
+          "twoBr": 188,
+          "threeBr": 18,
+          "fourBr": 26
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "74",
+        "DEV_NAME": "Wellesley St. E. (200)",
+        "BLDG_ADDRESS": "200 Wellesley St. E.",
+        "Unit_Type": {
+          "bachelor": 94,
+          "oneBr": 93,
+          "twoBr": 55,
+          "threeBr": 97,
+          "fourBr": 67
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "902 ",
+        "DEV_NAME": "​Wood St. (95)",
+        "BLDG_ADDRESS": "95 Wood St.",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 180,
+          "twoBr": 116,
+          "threeBr": 58,
+          "fourBr": 86
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Don Valley Beaches",
+    "orgManager": "John Perkovic",
+    "orgAddress": "145 Strathmore Blvd.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "701",
+        "DEV_NAME": "Asquith Park",
+        "BLDG_ADDRESS": "40 Asquith Ave. \n             ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "301",
+        "DEV_NAME": "Balsam Ave. (9-11) ",
+        "BLDG_ADDRESS": "9-11 Balsam Ave. ",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "33",
+        "DEV_NAME": "Blake Boultbee ",
+        "BLDG_ADDRESS": "30, 40, 50, 60, 70, 80 Blake St.; 10, 20 Boultbee Ave. ",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "731",
+        "DEV_NAME": "Broadway Ave. (133)",
+        "BLDG_ADDRESS": "133 Broadway Ave. ",
+        "Unit_Type": {
+          "bachelor": 39,
+          "oneBr": 51,
+          "twoBr": 265,
+          "threeBr": 90,
+          "fourBr": 93
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "732",
+        "DEV_NAME": "Broadway Ave. (28) ",
+        "BLDG_ADDRESS": "28 Broadway Ave. ",
+        "Unit_Type": {
+          "bachelor": 67,
+          "oneBr": 96,
+          "twoBr": 274,
+          "threeBr": 33,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "306 ",
+        "DEV_NAME": "Cavell Harcourt ",
+        "BLDG_ADDRESS": "60-114, 97-99 Cavell Ave.; 39 Harcourt. Ave ",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 38,
+          "twoBr": 54,
+          "threeBr": 145,
+          "fourBr": 74
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "302",
+        "DEV_NAME": "Chatham St. (195-203) ",
+        "BLDG_ADDRESS": "195-203 Chatham Ave. ",
+        "Unit_Type": {
+          "bachelor": 50,
+          "oneBr": 69,
+          "twoBr": 169,
+          "threeBr": 51,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "364",
+        "DEV_NAME": "Coatsworth Cr. (33)",
+        "BLDG_ADDRESS": "33 Coatsworth Cres.; 7-11 Hillingdon Ave.; 8-14 Drayton Ave. ",
+        "Unit_Type": {
+          "bachelor": 75,
+          "oneBr": 164,
+          "twoBr": 207,
+          "threeBr": 84,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "361",
+        "DEV_NAME": "Coxwell Stables",
+        "BLDG_ADDRESS": "426A & B, 428-444 Coxwell Ave. ",
+        "Unit_Type": {
+          "bachelor": 92,
+          "oneBr": 197,
+          "twoBr": 178,
+          "threeBr": 171,
+          "fourBr": 58
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "801",
+        "DEV_NAME": "Danforth Ave. (1275)",
+        "BLDG_ADDRESS": "1275 Danforth Ave. ",
+        "Unit_Type": {
+          "bachelor": 76,
+          "oneBr": 36,
+          "twoBr": 88,
+          "threeBr": 164,
+          "fourBr": 23
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "91",
+        "DEV_NAME": "Don Summerville",
+        "BLDG_ADDRESS": "1555, 1575 Queen St. E. ",
+        "Unit_Type": {
+          "bachelor": 33,
+          "oneBr": 156,
+          "twoBr": 292,
+          "threeBr": 25,
+          "fourBr": 8
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "93",
+        "DEV_NAME": "Eastview Park ",
+        "BLDG_ADDRESS": "1080 Eastern Ave. ",
+        "Unit_Type": {
+          "bachelor": 89,
+          "oneBr": 176,
+          "twoBr": 108,
+          "threeBr": 63,
+          "fourBr": 84
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "38",
+        "DEV_NAME": "Edgewood Ave. ",
+        "BLDG_ADDRESS": "59, 93 Edgewood Ave. ",
+        "Unit_Type": {
+          "bachelor": 44,
+          "oneBr": 39,
+          "twoBr": 222,
+          "threeBr": 147,
+          "fourBr": 80
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "803",
+        "DEV_NAME": "Eglinton Ave. E. (220) ",
+        "BLDG_ADDRESS": "220 Eglinton Ave. E. ",
+        "Unit_Type": {
+          "bachelor": 23,
+          "oneBr": 133,
+          "twoBr": 254,
+          "threeBr": 16,
+          "fourBr": 45
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "303",
+        "DEV_NAME": "Elmer Ave. (98)",
+        "BLDG_ADDRESS": "98 Elmer Ave. ",
+        "Unit_Type": {
+          "bachelor": 81,
+          "oneBr": 195,
+          "twoBr": 231,
+          "threeBr": 94,
+          "fourBr": 51
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "371",
+        "DEV_NAME": "Gerrard St. E. (2390)",
+        "BLDG_ADDRESS": "2390 Gerrard St. E. ",
+        "Unit_Type": {
+          "bachelor": 60,
+          "oneBr": 120,
+          "twoBr": 144,
+          "threeBr": 182,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "89",
+        "DEV_NAME": "Greenwood Park ",
+        "BLDG_ADDRESS": "1615 Dundas St. E. ",
+        "Unit_Type": {
+          "bachelor": 8,
+          "oneBr": 61,
+          "twoBr": 144,
+          "threeBr": 159,
+          "fourBr": 7
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "304",
+        "DEV_NAME": "Greenwood Walpole",
+        "BLDG_ADDRESS": "66 Walpole Ave. ",
+        "Unit_Type": {
+          "bachelor": 55,
+          "oneBr": 186,
+          "twoBr": 155,
+          "threeBr": 169,
+          "fourBr": 87
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "740",
+        "DEV_NAME": "Holly Park",
+        "BLDG_ADDRESS": "70 Dunfield Ave.; 69 Holly St. ",
+        "Unit_Type": {
+          "bachelor": 47,
+          "oneBr": 62,
+          "twoBr": 196,
+          "threeBr": 58,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "308 ",
+        "DEV_NAME": "Hubbard Blvd. (42)",
+        "BLDG_ADDRESS": "42 Hubbard Bvld. ",
+        "Unit_Type": {
+          "bachelor": 10,
+          "oneBr": 59,
+          "twoBr": 58,
+          "threeBr": 39,
+          "fourBr": 40
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "379",
+        "DEV_NAME": "Jones Ave. (52-54)",
+        "BLDG_ADDRESS": "52-54 Jones Ave. ",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 107,
+          "twoBr": 279,
+          "threeBr": 91,
+          "fourBr": 82
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "309",
+        "DEV_NAME": "Jones Curzon",
+        "BLDG_ADDRESS": "7 Jones Ave. ",
+        "Unit_Type": {
+          "bachelor": 32,
+          "oneBr": 27,
+          "twoBr": 235,
+          "threeBr": 40,
+          "fourBr": 57
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "358",
+        "DEV_NAME": "Kingston Rd. (320)",
+        "BLDG_ADDRESS": "320 Kingston Rd. ",
+        "Unit_Type": {
+          "bachelor": 7,
+          "oneBr": 115,
+          "twoBr": 188,
+          "threeBr": 18,
+          "fourBr": 26
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "310",
+        "DEV_NAME": "Kingston Rd. (331-333)",
+        "BLDG_ADDRESS": "331-333 Kingston Rd. ",
+        "Unit_Type": {
+          "bachelor": 94,
+          "oneBr": 93,
+          "twoBr": 55,
+          "threeBr": 97,
+          "fourBr": 67
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "372",
+        "DEV_NAME": "Kingston Rd. (520)",
+        "BLDG_ADDRESS": "520 Kingston Rd. ",
+        "Unit_Type": {
+          "bachelor": 97,
+          "oneBr": 180,
+          "twoBr": 116,
+          "threeBr": 58,
+          "fourBr": 86
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "367",
+        "DEV_NAME": "Kingston Rd. (530)",
+        "BLDG_ADDRESS": "530 Kingston Rd. ",
+        "Unit_Type": {
+          "bachelor": 54,
+          "oneBr": 128,
+          "twoBr": 283,
+          "threeBr": 88,
+          "fourBr": 19
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "360",
+        "DEV_NAME": "Logan St. (195-201)",
+        "BLDG_ADDRESS": "195-201 Logan Ave. ",
+        "Unit_Type": {
+          "bachelor": 21,
+          "oneBr": 34,
+          "twoBr": 135,
+          "threeBr": 53,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "374",
+        "DEV_NAME": "Louvain Ave. (29)",
+        "BLDG_ADDRESS": "29 Louvain Ave. ",
+        "Unit_Type": {
+          "bachelor": 43,
+          "oneBr": 199,
+          "twoBr": 38,
+          "threeBr": 136,
+          "fourBr": 17
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "311",
+        "DEV_NAME": "Newbold Ave. (11)",
+        "BLDG_ADDRESS": "11 Newbold Ave. ",
+        "Unit_Type": {
+          "bachelor": 13,
+          "oneBr": 179,
+          "twoBr": 26,
+          "threeBr": 19,
+          "fourBr": 71
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "86",
+        "DEV_NAME": "Phin Park",
+        "BLDG_ADDRESS": "2-12, 3-7 Phin Ave. ",
+        "Unit_Type": {
+          "bachelor": 70,
+          "oneBr": 51,
+          "twoBr": 214,
+          "threeBr": 200,
+          "fourBr": 15
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "378",
+        "DEV_NAME": "Queen St. (1167) ",
+        "BLDG_ADDRESS": "1167 Queen St. E. ",
+        "Unit_Type": {
+          "bachelor": 34,
+          "oneBr": 25,
+          "twoBr": 205,
+          "threeBr": 184,
+          "fourBr": 43
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "315",
+        "DEV_NAME": "Queen Victoria (40)",
+        "BLDG_ADDRESS": "40-56 Queen Victoria St. ",
+        "Unit_Type": {
+          "bachelor": 21,
+          "oneBr": 65,
+          "twoBr": 237,
+          "threeBr": 39,
+          "fourBr": 4
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": false,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "179",
+        "DEV_NAME": "Riverdale Mews",
+        "BLDG_ADDRESS": "436 Leslie St. ",
+        "Unit_Type": {
+          "bachelor": 37,
+          "oneBr": 174,
+          "twoBr": 281,
+          "threeBr": 134,
+          "fourBr": 77
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "334",
+        "DEV_NAME": "Rivertowne ",
+        "BLDG_ADDRESS": "50 Matilda St.; 53-73, 60-66 Munro St.; 45-51 Carroll St.; 1-8 Doris Anderson Ct. ",
+        "Unit_Type": {
+          "bachelor": 61,
+          "oneBr": 14,
+          "twoBr": 196,
+          "threeBr": 86,
+          "fourBr": 21
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "362",
+        "DEV_NAME": "Stephenson Ave. (111)",
+        "BLDG_ADDRESS": "101, A-111 Stephenson Ave. ",
+        "Unit_Type": {
+          "bachelor": 53,
+          "oneBr": 185,
+          "twoBr": 112,
+          "threeBr": 30,
+          "fourBr": 46
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "351",
+        "DEV_NAME": "Stephenson Ave. (139) ",
+        "BLDG_ADDRESS": "121 & 121A-139 & 139A, 141, 143 & A, B, C Stephenson Ave. ",
+        "Unit_Type": {
+          "bachelor": 38,
+          "oneBr": 134,
+          "twoBr": 247,
+          "threeBr": 3,
+          "fourBr": 10
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "369",
+        "DEV_NAME": "Tiverton Ave. (17)",
+        "BLDG_ADDRESS": "17, 17A, 17B Tiverton St. ",
+        "Unit_Type": {
+          "bachelor": 80,
+          "oneBr": 181,
+          "twoBr": 233,
+          "threeBr": 21,
+          "fourBr": 92
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "730",
+        "DEV_NAME": "William Clarkin Mews ",
+        "BLDG_ADDRESS": "2755 Yonge St.; 2745-2765 Yonge St. ",
+        "Unit_Type": {
+          "bachelor": 6,
+          "oneBr": 141,
+          "twoBr": 34,
+          "threeBr": 133,
+          "fourBr": 30
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": true,
+          "aboriginal": true
+        }
+      },
+      {
+        "DEV_ID": "733",
+        "DEV_NAME": "Yonge St. (2401) (Broadway 8, 12)",
+        "BLDG_ADDRESS": "2401 Yonge St. (8, 12 Broadway Ave.) ",
+        "Unit_Type": {
+          "bachelor": 77,
+          "oneBr": 120,
+          "twoBr": 109,
+          "threeBr": 62,
+          "fourBr": 21
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      }
+    ]
+  },
+  {
+    "orgUnit": "Central Parliament",
+    "orgManager": "Barry Thomas",
+    "orgAddress": "415 Gerrard St. E.",
+    "orgPhone": "(416) 981-5500",
+    "orgHours": "Monday to Friday 8:30am to 4:30pm",
+    "orgEmail": "info@torontohousing.ca",
+    "orgBuildings": [
+      {
+        "DEV_ID": "19",
+        "DEV_NAME": "Gerrard River",
+        "BLDG_ADDRESS": "220 Oak St. ",
+        "Unit_Type": {
+          "bachelor": 5,
+          "oneBr": 172,
+          "twoBr": 47,
+          "threeBr": 171,
+          "fourBr": 5
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": true,
+          "accessible": true,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "85",
+        "DEV_NAME": "Regent Park (North)",
+        "BLDG_ADDRESS": "470, 508, 540, 600, 638-644,674, 696, 702 Dundas St. E.;295, 325, 355, 407, 415-417,427-433, 463, 473-479 Gerrard St. E.; 41 Oak St.; 347, 365 Parliament St.; 150, 184 River St.; 248, 251, 274, 295, 319-325 Sackville Green St; 205-211,229, 230, 259, 260, 261-267 Sumach St.",
+        "Unit_Type": {
+          "bachelor": 4,
+          "oneBr": 142,
+          "twoBr": 204,
+          "threeBr": 10,
+          "fourBr": 90
+        },
+        "Speciality": {
+          "seniors": false,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": false
+        }
+      },
+      {
+        "DEV_ID": "201",
+        "DEV_NAME": "Regent Park (South)",
+        "BLDG_ADDRESS": "15, 63 Belshaw Pl.; 15, 63 Belshaw Pl.; 1, 14, 37, 42 Blevins Pl.; 61 Pahler St.; 19,33 Regent St.; 151, 161, 170,213, 225 Sackville Green St;356, 490, 506 Shutter St.; 1-29 St. Bartholomew St.; 78, 94 St.David's Walk; 37-47 Sutton Ave.; 605 Whiteside Pl.;31 Sutton Ave.​",
+        "Unit_Type": {
+          "bachelor": 20,
+          "oneBr": 117,
+          "twoBr": 43,
+          "threeBr": 139,
+          "fourBr": 56
+        },
+        "Speciality": {
+          "seniors": true,
+          "supportive": false,
+          "accessible": false,
+          "aboriginal": true
+        }
+      }
+    ]
+  }
+]

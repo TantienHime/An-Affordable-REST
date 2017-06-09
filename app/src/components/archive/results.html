@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Theme Simply Me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+     <link href="cover.css" rel="stylesheet">
+</head>
+<body>
+     <nav class="navbar navbar-default">
+          <div class="container">
+          <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span> 
+               </button>
+               <a class="navbar-brand" href="#">Me</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+               <ul class="nav navbar-nav navbar-right">
+               <li><a href="#">WHO</a></li>
+               <li><a href="#">WHAT</a></li>
+               <li><a href="#">WHERE</a></li>
+               </ul>
+          </div>
+          </div>
+          </nav>
+     <div class="container-fluid bg-1 text-center">
+          <h3>Who Am I?</h3>
+          <img src="bird.jpg" class="img-circle" alt="Bird">
+          <h3>I'm an adventurer</h3>
+     </div>
+     <div class="container-fluid bg-2 text-center">
+          <h3>What Am I?</h3>
+          <p>Lorem ipsum..</p>
+     </div>
+
+     <div class="container-fluid bg-3 text-center"> 
+     <h3>Where To Find Me?</h3>
+     <div class="row">
+     <div class="col-sm-4">
+          <p>Lorem ipsum..</p>
+          <img src="birds1.jpg" class="img-responsive img-circle" alt="Image">
+     </div>
+     <div class="col-sm-4">
+          <p>Lorem ipsum..</p>
+          <img src="birds2.jpg" class="img-responsive img-circle" alt="Image">
+     </div>
+     <div class="col-sm-4"> 
+          <p>Lorem ipsum..</p>
+          <img src="birds3.jpg" class="img-responsive img-circle" alt="Image">
+     </div>
+     </div>
+     </div>
+     <div class="container-fluid bg-2 text-center">
+          <h3>What Am I?</h3>
+          <p>Lorem ipsum..</p>
+          <a href="#" class="btn btn-default btn-lg">Search</a>
+     </div>
+     <footer class="container-fluid bg-4 text-center">
+          <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
+     </footer>
+</body>
+</html>
+
+<!--This is the main page from the Node Diving Deeper page. It should be used for the results page
+<html>
+    <head>
+        <title>Home</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/styles.css">        
+    </head>
+
+    <body>
+        <div class="container">
+            <form action="/search" method="GET">
+                <input type="text" name="searchQuery" />
+                <input type="submit" />
+            </form>
+            <h1 class="text-center">Movie Database</h1>
+
+
+Used Bootstrap to show responsive movie posters. This is a sample of what should be displayed using ejs
+           <div class="row" id="movieContainer">
+           <% for(var i=0; i < movies.length; i++) { %>
+
+            <a class="movie-link" href= <%= "movie/"+movies[i].id %> >
+                <div class="media movie-list-item">
+                    <div class="media-left">
+                        <div class="poster-container">
+                            <img class="media-object movie-poster" src= <%= movies[i].poster %> />
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">
+                            <%= movies[i].title %>
+                            <span class="badge"><%= movies[i].imdbRating %></span>
+                        </h4>
+                        <div>
+                            <%= movies[i].plot %>
+                        </div>
+                        <div class="released-date">
+                            Released: <%= movies[i].released %>
+                        </div>
+                    </div>
+                </div>
+                </a>
+                <% } %>
+            </div> end the container movieContainer
+SN: Below is the original code we were given for the assignment 
+
+            Repeat the following HTML structure for all movies
+
+        </div>
+    </body>
+</html>
+
+
+-->

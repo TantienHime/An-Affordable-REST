@@ -1,0 +1,205 @@
+{
+  "orgUnit": "Don Valley Beaches",
+  "orgManager": "John Perkovic",
+  "orgAddress": "145 Strathmore Blvd.",
+  "orgPhone": "(416) 981-5500",
+  "orgHours": "Monday to Friday 8:30am to 4:30pm",
+  "orgEmail": "info@torontohousing.ca",
+  "orgBuildings": [
+    {
+      "DEV_ID": "701",
+      "DEV_NAME": "Asquith Park",
+      "BLDG_ADDRESS": "40 Asquith Ave. \n             "
+    },
+    {
+      "DEV_ID": "301",
+      "DEV_NAME": "Balsam Ave. (9-11) ",
+      "BLDG_ADDRESS": "9-11 Balsam Ave. "
+    },
+    {
+      "DEV_ID": "33",
+      "DEV_NAME": "Blake Boultbee ",
+      "BLDG_ADDRESS": "30, 40, 50, 60, 70, 80 Blake St.; 10, 20 Boultbee Ave. "
+    },
+    {
+      "DEV_ID": "731",
+      "DEV_NAME": "Broadway Ave. (133)",
+      "BLDG_ADDRESS": "133 Broadway Ave. "
+    },
+    {
+      "DEV_ID": "732",
+      "DEV_NAME": "Broadway Ave. (28) ",
+      "BLDG_ADDRESS": "28 Broadway Ave. "
+    },
+    {
+      "DEV_ID": "306 ",
+      "DEV_NAME": "Cavell Harcourt ",
+      "BLDG_ADDRESS": "60-114, 97-99 Cavell Ave.; 39 Harcourt. Ave "
+    },
+    {
+      "DEV_ID": "302",
+      "DEV_NAME": "Chatham St. (195-203) ",
+      "BLDG_ADDRESS": "195-203 Chatham Ave. "
+    },
+    {
+      "DEV_ID": "364",
+      "DEV_NAME": "Coatsworth Cr. (33)",
+      "BLDG_ADDRESS": "33 Coatsworth Cres.; 7-11 Hillingdon Ave.; 8-14 Drayton Ave. "
+    },
+    {
+      "DEV_ID": "361",
+      "DEV_NAME": "Coxwell Stables",
+      "BLDG_ADDRESS": "426A & B, 428-444 Coxwell Ave. "
+    },
+    {
+      "DEV_ID": "801",
+      "DEV_NAME": "Danforth Ave. (1275)",
+      "BLDG_ADDRESS": "1275 Danforth Ave. "
+    },
+    {
+      "DEV_ID": "91",
+      "DEV_NAME": "Don Summerville",
+      "BLDG_ADDRESS": "1555, 1575 Queen St. E. "
+    },
+    {
+      "DEV_ID": "93",
+      "DEV_NAME": "Eastview Park ",
+      "BLDG_ADDRESS": "1080 Eastern Ave. "
+    },
+    {
+      "DEV_ID": "38",
+      "DEV_NAME": "Edgewood Ave. ",
+      "BLDG_ADDRESS": "59, 93 Edgewood Ave. "
+    },
+    {
+      "DEV_ID": "803",
+      "DEV_NAME": "Eglinton Ave. E. (220) ",
+      "BLDG_ADDRESS": "220 Eglinton Ave. E. "
+    },
+    {
+      "DEV_ID": "303",
+      "DEV_NAME": "Elmer Ave. (98)",
+      "BLDG_ADDRESS": "98 Elmer Ave. "
+    },
+    {
+      "DEV_ID": "371",
+      "DEV_NAME": "Gerrard St. E. (2390)",
+      "BLDG_ADDRESS": "2390 Gerrard St. E. "
+    },
+    {
+      "DEV_ID": "89",
+      "DEV_NAME": "Greenwood Park ",
+      "BLDG_ADDRESS": "1615 Dundas St. E. "
+    },
+    {
+      "DEV_ID": "304",
+      "DEV_NAME": "Greenwood Walpole",
+      "BLDG_ADDRESS": "66 Walpole Ave. "
+    },
+    {
+      "DEV_ID": "740",
+      "DEV_NAME": "Holly Park",
+      "BLDG_ADDRESS": "70 Dunfield Ave.; 69 Holly St. "
+    },
+    {
+      "DEV_ID": "308 ",
+      "DEV_NAME": "Hubbard Blvd. (42)",
+      "BLDG_ADDRESS": "42 Hubbard Bvld. "
+    },
+    {
+      "DEV_ID": "379",
+      "DEV_NAME": "Jones Ave. (52-54)",
+      "BLDG_ADDRESS": "52-54 Jones Ave. "
+    },
+    {
+      "DEV_ID": "309",
+      "DEV_NAME": "Jones Curzon",
+      "BLDG_ADDRESS": "7 Jones Ave. "
+    },
+    {
+      "DEV_ID": "358",
+      "DEV_NAME": "Kingston Rd. (320)",
+      "BLDG_ADDRESS": "320 Kingston Rd. "
+    },
+    {
+      "DEV_ID": "310",
+      "DEV_NAME": "Kingston Rd. (331-333)",
+      "BLDG_ADDRESS": "331-333 Kingston Rd. "
+    },
+    {
+      "DEV_ID": "372",
+      "DEV_NAME": "Kingston Rd. (520)",
+      "BLDG_ADDRESS": "520 Kingston Rd. "
+    },
+    {
+      "DEV_ID": "367",
+      "DEV_NAME": "Kingston Rd. (530)",
+      "BLDG_ADDRESS": "530 Kingston Rd. "
+    },
+    {
+      "DEV_ID": "360",
+      "DEV_NAME": "Logan St. (195-201)",
+      "BLDG_ADDRESS": "195-201 Logan Ave. "
+    },
+    {
+      "DEV_ID": "374",
+      "DEV_NAME": "Louvain Ave. (29)",
+      "BLDG_ADDRESS": "29 Louvain Ave. "
+    },
+    {
+      "DEV_ID": "311",
+      "DEV_NAME": "Newbold Ave. (11)",
+      "BLDG_ADDRESS": "11 Newbold Ave. "
+    },
+    {
+      "DEV_ID": "86",
+      "DEV_NAME": "Phin Park",
+      "BLDG_ADDRESS": "2-12, 3-7 Phin Ave. "
+    },
+    {
+      "DEV_ID": "378",
+      "DEV_NAME": "Queen St. (1167) ",
+      "BLDG_ADDRESS": "1167 Queen St. E. "
+    },
+    {
+      "DEV_ID": "315",
+      "DEV_NAME": "Queen Victoria (40)",
+      "BLDG_ADDRESS": "40-56 Queen Victoria St. "
+    },
+    {
+      "DEV_ID": "179",
+      "DEV_NAME": "Riverdale Mews",
+      "BLDG_ADDRESS": "436 Leslie St. "
+    },
+    {
+      "DEV_ID": "334",
+      "DEV_NAME": "Rivertowne ",
+      "BLDG_ADDRESS": "50 Matilda St.; 53-73, 60-66 Munro St.; 45-51 Carroll St.; 1-8 Doris Anderson Ct. "
+    },
+    {
+      "DEV_ID": "362",
+      "DEV_NAME": "Stephenson Ave. (111)",
+      "BLDG_ADDRESS": "101, A-111 Stephenson Ave. "
+    },
+    {
+      "DEV_ID": "351",
+      "DEV_NAME": "Stephenson Ave. (139) ",
+      "BLDG_ADDRESS": "121 & 121A-139 & 139A, 141, 143 & A, B, C Stephenson Ave. "
+    },
+    {
+      "DEV_ID": "369",
+      "DEV_NAME": "Tiverton Ave. (17)",
+      "BLDG_ADDRESS": "17, 17A, 17B Tiverton St. "
+    },
+    {
+      "DEV_ID": "730",
+      "DEV_NAME": "William Clarkin Mews ",
+      "BLDG_ADDRESS": "2755 Yonge St.; 2745-2765 Yonge St. "
+    },
+    {
+      "DEV_ID": "733",
+      "DEV_NAME": "Yonge St. (2401) (Broadway 8, 12)",
+      "BLDG_ADDRESS": "2401 Yonge St. (8, 12 Broadway Ave.) "
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+     {
+          "orgUnit": "Weston Rexdale",
+          "orgBuildings": [
+               {
+                    "DEV_ID": 111,
+                    "DEV_NAME": "Humber Acres",
+                    "BLDG_ADDRESS": "1 Scarlettwood Court",
+                    "units": [
+                         {
+                              "bachelor": 10,
+                              "1BR": 15,
+                              "2BR": 20,
+                              "3BR": 5
+                         }
+                    ],
+                    "special":[
+                         {
+                              "seniors": true,
+                              "accessible": true,
+                              "supportive": true,
+                              "aboriginal": false
+                         }
+                    ]
+               },
+               {
+                    "DEV_ID": 123,
+                    "DEV_NAME": "Athens Villa",
+                    "BLDG_ADDRESS": "1320 Gerrard Street East",
+                                        "units": [
+                         {
+                              "bachelor": 10,
+                              "1BR": 15,
+                              "2BR": 20
+                         }
+                    ],
+                    "special":[
+                         {
+                              "seniors": true,
+                              "accessible": true,
+                              "supportive": false,
+                              "aboriginal": false
+                         }
+                    ]                    
+               }
+          ],
+          "orgManager": "Joan White",
+          "orgAddress": "2765 Islington Ave.",
+          "orgPhone": "(416) 981-5500",
+          "orgHours": "Monday to Friday 8:30am to 4:30pm",
+          "orgEmail": "info@torontohousing.ca"
+     },
+     {
+          "orgUnit": "Weston Rexdale",
+          "orgBuildings": [
+               {
+                    "DEV_ID": 111,
+                    "DEV_NAME": "Humber Acres",
+                    "BLDG_ADDRESS": "1 Scarlettwood Court",
+                    "units": [
+                         {
+                              "bachelor": 10,
+                              "1BR": 15,
+                              "2BR": 20,
+                              "3BR": 5
+                         }
+                    ],
+                    "special":[
+                         {
+                              "seniors": true,
+                              "accessible": true,
+                              "supportive": false,
+                              "aboriginal": false
+                         }
+                    ]
+               },
+               {
+                    "DEV_ID": 123,
+                    "DEV_NAME": "Athens Villa",
+                    "BLDG_ADDRESS": "1320 Gerrard Street East",
+                    "units": [
+                         {
+                              "bachelor": 10,
+                              "1BR": 15,
+                              "2BR": 20,
+                              "3BR": 5
+                         }
+                    ],
+                    "special":[
+                         {
+                              "seniors": true,
+                              "accessible": true,
+                              "supportive": false,
+                              "aboriginal": false
+                         }
+                    ]                    
+               }
+          ],
+          "orgManager": "Joan White",
+          "orgAddress": "2765 Islington Ave.",
+          "orgPhone": "(416) 981-5500",
+          "orgHours": "Monday to Friday 8:30am to 4:30pm",
+          "orgEmail": "info@torontohousing.ca"          
+     }
+]
+

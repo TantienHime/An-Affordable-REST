@@ -1,0 +1,152 @@
+<!--Moved this static file into the search.js file June 6 2017 @noon - SN -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!--<link rel="icon" href="../../favicon.ico">-->
+
+    <title>Shanta's Final Project - WDFT</title>
+
+    <!-- Bootstrap core CSS -->
+    <!--<link href="../../dist/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!--
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    -->
+
+    <!-- Custom styles for this template -->
+    <link href="./../cover.css" rel="stylesheet">
+
+    <!--Social Circles Fonts-->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+    -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">An Affordable REST</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="active"><a href="/">Home</a></li>
+                  <li><a href="about.html">About</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <!--Beginning of the search component.-->
+        <div class="inner cover">
+          <h1 class="cover-heading">I Need Affordable Housing</h1>
+            <p class="lead">Search our system below.</p> <!-- From the node project. Need to fix the search.-->
+            <p class="lead">
+                <form action="/search" method="GET">
+                <!--This is the general search. Leaving it in for now, due to design issues, but functionality isn't there. This is secondary' -->
+                    <input type="text" placeholder"General Search - Not Currently Functioning" class="form-control" name="searchQuery" id="searchInput" /> 
+
+                    <!-- If there is time, I could implement in which district/orgUnit that the search could be performed. -->
+                    <div class="wrapper" id="checkbox-wrapper">
+                      <div class="form-group" id="unitSize">
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="bachelor">Bachelor</label>
+                        </div>
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="1br">1 Bedroom</label>
+                        </div>
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="2br">2 Bedroom</label>
+                        </div>
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="3br">3 Bedroom</label>
+                        </div>
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="4br">4 Bedroom</label>
+                        </div>
+                      </div>
+                      <div class="form-group" id="unitSpeciality">
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="aboriginal">Aboriginal</label>
+                        </div>
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="accessible">Accessible</label>
+                        </div>
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="seniors">Seniors</label>
+                        </div>
+
+                        <div class="checkbox">
+                          <label><input type="checkbox" value="supportive">Supportive</label>
+                        </div>
+                      </div>
+                    </div>
+                    <!--This select might be good for an option. This should be generated by the org units that are generated from the web scraping. Need to fix multi-select.-->
+                    <div class="form-group" id="orgUnitSelect"> 
+                      <label for="orgUnit">Select organizational units:</label>
+                      <select class="form-control">
+                        <option>OrgUnit1</option>
+                        <option>OrgUnit2</option>
+                        <option>...all the way down to...</option>
+                        <option>OrgUnit11</option>
+                      </select>
+                    </div>                    
+                    <button type="submit" class="btn btn-lg btn-default" id="search404button"> Search</button>
+                </form>
+            </p>
+        </div>
+        <!--End of the search component-->
+        <!-- Social Media Icons -->
+    		<div class="col-md-12" id="social-media-icons">
+          <ul class="social-network social-circle">
+              <li><a href="http://github.com/tantienhime" class="icoGithub" title="Github"><i class="fa fa-github"></i></a></li>
+              <li><a href="http://shanta.ca" class="icoWordPress" title="WordPress"><i class="fa fa-wordpress"></i></a></li>
+              <li><a href="http://twitter.com/shantadotca" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="http://flicker.com/tantienhime" class="icoFlickr" title="Flickr"><i class="fa fa-flickr"></i></a></li>
+              <li><a href="http://linkedin.com/in/nathwani" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="mailto:shanta@shanta.ca" class="icoEmail" title="Email"><i class="fa fa-envelope-o"></i></a></li>              
+          </ul>				
+				</div>        
+        <div class="mastfoot">
+            <div class="inner">
+              <p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!--
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    -->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!-- <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
+  </body>
+</html>
