@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs');
 const housingData = fs.readFileSync('./data/webscrapeResults.JSON', 'utf8'); //Currently only getting a single Org Unit. Might need to check the looping on the axios.all. Minimal data is at least being served.
 const PORT = process.env.PORT || 8888;
-app.use(express.static(__dirname + './build'))
+app.use(express.static(__dirname + '/build'))
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -113,7 +113,7 @@ app.get('/notfound', (req, res) => {
 
  */
 app.get('*', function (req, res) {
-    res.sendFile(path.resolve((__dirname + './build/index.html')));
+    res.sendFile(path.resolve((__dirname + '/build/index.html')));
 })
 
 // start Express on port 8080
